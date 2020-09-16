@@ -1,4 +1,4 @@
-p(	font-size: 20px; )
+p{	font-size: 20px; }
 
 
 h1{	text-align: center; }
@@ -12,3 +12,31 @@ body{
 
 div{ text-align: center;
 	margin-bottom: 30px; }
+
+#imgS{
+
+	max-width: 30%
+
+}
+
+
+#img2{
+
+
+	max-width: 30%;
+	float: left;
+}
+
+#img3{
+
+
+	float: right;
+	max-width: 30%;
+
+}
+
+img{
+
+	max-width: 40%;
+
+}
